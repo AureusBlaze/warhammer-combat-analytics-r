@@ -1,0 +1,21 @@
+Name,Faction,Movement,WS,BS,Strength,Toughness,Wounds,Attacks,Save,Points
+Intercessor,Space Marines,6,3,3,4,4,2,2,3,18
+Tactical Marine,Space Marines,6,3,3,4,4,2,1,3,16
+Terminator,Space Marines,5,3,3,4,5,3,3,2,35
+Captain,Space Marines,6,2,2,4,4,6,4,3,80
+Librarian,Space Marines,6,3,3,4,4,5,3,3,75
+Boyz,Orks,5,3,5,4,5,1,2,6,8
+Nobz,Orks,5,3,5,5,5,2,3,4,15
+Ghazghkull Thraka,Orks,7,2,5,8,9,10,5,2,235
+Deff Dread,Orks,8,3,5,10,9,8,4,3,130
+Warboss,Orks,5,2,5,6,5,6,4,4,65
+Necron Warrior,Necrons,5,3,3,4,4,1,1,4,10
+Immortal,Necrons,5,3,3,4,5,1,1,3,16
+Overlord,Necrons,5,2,2,5,5,6,4,3,85
+Lychguard,Necrons,5,3,3,5,5,2,2,2,25
+Canoptek Scarab,Necrons,10,4,0,3,2,4,4,6,15
+Guardian Defender,Aeldari,7,3,3,3,3,1,1,4,11
+Dire Avenger,Aeldari,7,3,3,3,3,1,2,3,14
+Farseer,Aeldari,7,2,2,3,3,5,1,6,80
+Wraithguard,Aeldari,5,3,3,10,7,3,1,3,34
+Avatar of Khaine,Aeldari,10,2,2,12,12,14,6,2,335
